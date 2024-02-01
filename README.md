@@ -1,3 +1,8 @@
+# Next JS starter template with sidebar navigation
+A responsive Next.js sidenav template to start your projects with.
+
+Here you can read the full [tutorial for Next JS sidenav](https://daily-dev-tips.com/posts/creating-a-sidebar-layout-in-nextjs-with-tailwind/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -22,4 +27,4 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 If you want to learn more about how this project works:
 
-[Read the full article](https://daily-dev-tips.com/posts/creating-a-sidebar-layout-in-nextjs-with-tailwind/)
+Read the full tutorial for a Next JS sidebar navigation [here](https://daily-dev-tips.com/posts/creating-a-sidebar-layout-in-nextjs-with-tailwind/)
